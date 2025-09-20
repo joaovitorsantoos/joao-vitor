@@ -17,7 +17,7 @@ Sou um desenvolvedor Python iniciante, apaixonado por aprender e construir proje
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsantoos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsantooos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
