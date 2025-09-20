@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [João]!
+# 👋 Olá, eu sou o João!
 
 <p align="left">
   <a href="https[www.linkedin.com/in/joaovitorsantoos]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@ Sou um desenvolvedor Python iniciante, apaixonado por aprender e construir proje
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsantoos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
