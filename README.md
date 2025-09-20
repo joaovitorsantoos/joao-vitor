@@ -15,13 +15,7 @@ Sou um desenvolvedor Python iniciante, apaixonado por aprender e construir proje
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorsantoos&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 🌱 O que estou aprendendo agora:
+### 📚 O que estou aprendendo agora:
 
 - [ ] Programação Orientada a Objetos em Python
 - [ ] Bibliotecas como Pandas e Matplotlib
@@ -29,7 +23,7 @@ Sou um desenvolvedor Python iniciante, apaixonado por aprender e construir proje
 
 ---
 
-### 📫 Como me encontrar:
+### 💬 Como me encontrar:
 
 - **LinkedIn:** [www.linkedin.com/in/joaovitorsantoos]
 - **Email:** [joaovdsfloripa@gmail.com]
